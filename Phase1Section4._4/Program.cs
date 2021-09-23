@@ -52,11 +52,9 @@ namespace Phase1Section4._4
 
             Console.WriteLine("Marks of Kamal:");
             int total = 0;
-            //foreach(int mark in marks)
             for (int i = 0; i < 6; i++)
             {
                 total += marks[i];
-                //total += mark;
                 Console.WriteLine(courses[i] + " = " + marks[i]);
             }
             Console.WriteLine("Grade Average = " + total + "/600 = " + (total * 100 / 600) + " percent");

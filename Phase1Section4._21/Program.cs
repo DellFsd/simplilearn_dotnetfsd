@@ -8,15 +8,17 @@ namespace Phase1Section4._21
     {
         static void Main(string[] args)
         {
-            //RunApp();
-            SortExample();
+            RunApp();
+            //Extra Example of using builtin .NET Sorting
+            //SortExample();
         }
 
         public static void RunApp()
         {
-            List<int> marksList = new List<int> { 56, 90, 76, 88, 82, 67, 98, 83, 67, 79 };
-            marksList.Sort();
-            //int[] marks = new int[10] { 55, 58, 60, 63, 64, 67, 72, 74, 89, 98 };
+            //Example of using List and Sort
+            //List<int> marksList = new List<int> { 56, 90, 76, 88, 82, 67, 98, 83, 67, 79 };
+            //marksList.Sort();
+
             int[] marks = new int[10] { 56, 90, 76, 88, 82, 67, 98, 83, 67, 79 };
             Array.Sort(marks);
             bool success;
