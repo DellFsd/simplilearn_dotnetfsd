@@ -1,8 +1,8 @@
 ﻿
 namespace Phase1Section5._10
 {
-    class BasicGradeCard
+    abstract class BasicGradeCard
     {
-        public virtual int TotalMarks { get; }
+        public abstract int TotalMarks { get; }
     }
 }

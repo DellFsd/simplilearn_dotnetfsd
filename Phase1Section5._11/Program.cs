@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Phase1Section5._10
+namespace Phase1Section5._11
 {
     class Program
     {
@@ -22,10 +22,6 @@ namespace Phase1Section5._10
 
             high.Math = 80;
             Console.WriteLine("Updated total marks High School = " + high.TotalMarks);
-
-            BasicGradeCard highAsBasic = (BasicGradeCard)high;
-            Console.WriteLine("Cast to Basic total marks High School = " + highAsBasic.TotalMarks);
-
         }
 
     }

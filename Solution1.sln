@@ -23,27 +23,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section4._25", "Phase
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section4._7c", "Phase1Section4._7c\Phase1Section4._7c.csproj", "{8D2B3415-6AD2-4EFD-964B-200F88C377EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase1Section4._27", "Phase1Section4._27\Phase1Section4._27.csproj", "{653E56CF-1D05-4FC0-9D5F-EA4959BE1801}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section4._27", "Phase1Section4._27\Phase1Section4._27.csproj", "{653E56CF-1D05-4FC0-9D5F-EA4959BE1801}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase1Section4._29", "Phase1Section4._29\Phase1Section4._29.csproj", "{012820BC-C986-42D0-9EBF-5AFB28B4C9EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section4._29", "Phase1Section4._29\Phase1Section4._29.csproj", "{012820BC-C986-42D0-9EBF-5AFB28B4C9EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase1Section4._31", "Phase1Section4._31\Phase1Section4._31.csproj", "{473B3703-26B4-4CA8-8131-43682D860A50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section4._31", "Phase1Section4._31\Phase1Section4._31.csproj", "{473B3703-26B4-4CA8-8131-43682D860A50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase1Section4._33", "Phase1Section4._33\Phase1Section4._33.csproj", "{E78E885A-3F62-48D2-89B6-A5116132BFCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section4._33", "Phase1Section4._33\Phase1Section4._33.csproj", "{E78E885A-3F62-48D2-89B6-A5116132BFCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase1Section5._4", "Phase1Section5._4\Phase1Section5._4.csproj", "{DE12633F-3231-45A8-8445-257C398BC306}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section5._4", "Phase1Section5._4\Phase1Section5._4.csproj", "{DE12633F-3231-45A8-8445-257C398BC306}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase1Section5._6", "Phase1Section5._6\Phase1Section5._6.csproj", "{329E3BB7-BB4E-4F74-B3AA-A0C05DD5D984}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section5._6", "Phase1Section5._6\Phase1Section5._6.csproj", "{329E3BB7-BB4E-4F74-B3AA-A0C05DD5D984}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase1Section5._8", "Phase1Section5._8\Phase1Section5._8.csproj", "{ED52FC6E-4CFD-4494-BC06-9226930176B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section5._8", "Phase1Section5._8\Phase1Section5._8.csproj", "{ED52FC6E-4CFD-4494-BC06-9226930176B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase1Section5._11", "Phase1Section5._11\Phase1Section5._11.csproj", "{0C338BFA-DDC6-4933-8EAF-12E8D329EAC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section5._11", "Phase1Section5._11\Phase1Section5._11.csproj", "{0C338BFA-DDC6-4933-8EAF-12E8D329EAC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase1Section5._10", "Phase1Section5._10\Phase1Section5._10.csproj", "{51E31367-7EAD-4888-A935-B2DAC8DB242D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section5._10", "Phase1Section5._10\Phase1Section5._10.csproj", "{51E31367-7EAD-4888-A935-B2DAC8DB242D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase1Section5._12", "Phase1Section5._12\Phase1Section5._12.csproj", "{1B71DA08-1D57-4C0A-BD65-046796572D8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section5._12", "Phase1Section5._12\Phase1Section5._12.csproj", "{1B71DA08-1D57-4C0A-BD65-046796572D8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase1Section5._13", "Phase1Section5._13\Phase1Section5._13.csproj", "{C8270506-27DC-4463-A7FB-015AA77BBC9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section5._13", "Phase1Section5._13\Phase1Section5._13.csproj", "{C8270506-27DC-4463-A7FB-015AA77BBC9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section6._4", "Phase1Section6._4\Phase1Section6._4.csproj", "{332C2AB0-F9C3-4812-B677-84BF99D95F91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phase1Section6._6", "Phase1Section6._6\Phase1Section6._6.csproj", "{020AE6AA-8A78-411C-AFAB-60520577B086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase1Section6._8", "Phase1Section6._8\Phase1Section6._8.csproj", "{6F0C0A51-1FA5-4810-92E5-A5773E387577}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +141,18 @@ Global
 		{C8270506-27DC-4463-A7FB-015AA77BBC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8270506-27DC-4463-A7FB-015AA77BBC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8270506-27DC-4463-A7FB-015AA77BBC9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{332C2AB0-F9C3-4812-B677-84BF99D95F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332C2AB0-F9C3-4812-B677-84BF99D95F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332C2AB0-F9C3-4812-B677-84BF99D95F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332C2AB0-F9C3-4812-B677-84BF99D95F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020AE6AA-8A78-411C-AFAB-60520577B086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020AE6AA-8A78-411C-AFAB-60520577B086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020AE6AA-8A78-411C-AFAB-60520577B086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020AE6AA-8A78-411C-AFAB-60520577B086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0C0A51-1FA5-4810-92E5-A5773E387577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0C0A51-1FA5-4810-92E5-A5773E387577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0C0A51-1FA5-4810-92E5-A5773E387577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0C0A51-1FA5-4810-92E5-A5773E387577}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
